@@ -1,2 +1,4 @@
 # Personal Knowledge Base
-Personal knowledge base. Currently based on github-wikipages
+
+## Clone
+git clone git@github.com:remolueoend/kb.wiki.git
